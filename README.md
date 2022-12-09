@@ -1,0 +1,1 @@
+![test-example](https://github.com/EzerTigger/hexlet-pytest/actions/workflows/test-example.yml/badge.svg)
